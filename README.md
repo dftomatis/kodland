@@ -24,4 +24,3 @@ Este proyecto es un juego básico desarrollado con Python utilizando la librerí
 Desarrollado por Ing. Darío F. Tomatis.
 
 ## Año 2024
->>>>>>> master
