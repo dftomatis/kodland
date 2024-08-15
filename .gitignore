@@ -1,0 +1,18 @@
+# Ignorar carpetas del entorno virtual
+Include/
+Lib/
+Scripts/
+
+# Ignorar archivo de configuración del entorno virtual
+pyvenv.cfg
+
+# Ignorar archivos generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar otros archivos temporales
+*.log
+*.tmp
+*.swp
